@@ -12,9 +12,9 @@ Lets talk about "pure red". How red is that? Is it the same as the reddest thing
 
 Here's a concrete example:
 
-<span style="color:red">Red</span>
+![Red](/images/red.png)
 
-See that word "Red" above? It should look red to you, but you are almost certainly seeing a slightly different version of it than everyone else is, due to differences in software, display capabilities, configuration, and even differences in perception. This is another problem.
+See the box above? It should look red to you, but you are almost certainly seeing a slightly different version of it than everyone else is, due to differences in software, display capabilities, configuration, and even differences in perception. This is another problem.
 
 So basically, when you tell a computer to display "pure red", you have no idea what's going to actually going to be displayed, except that it will generally be recognizable as the color red, it might even be pretty close to what you expected. But there is no absolute truth to colors, they can't be trusted. Colors are lies.
 
