@@ -52,3 +52,5 @@ needs, but you should definitely understand what these three things mean and how
 * Gamut
 * Luminance
 * Tone curve
+
+Before we get to these, let's start with [human color vision basics](/pages/ColorVision.md).

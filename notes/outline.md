@@ -9,6 +9,7 @@
         * If anything is wrong, PRs welcome
         * Living document; not necessarily comprehensive
     * Reading Order
+* Human color vision basics
 * Color Spaces
     * RGB
     * YUV
