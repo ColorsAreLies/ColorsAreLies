@@ -9,7 +9,7 @@
         * If anything is wrong, PRs welcome
         * Living document; not necessarily comprehensive
     * Reading Order
-* Human color vision basics
+* Color Vision
 * Color Spaces
     * RGB
     * YUV
@@ -44,7 +44,7 @@
         * Link to xyy 3d graph?
     * Overranging
     * Tonemapping
-* Range
+* Signal Range
     * Limited / Full
     * Y vs UV
 * Conversion Pipeline
