@@ -15,7 +15,7 @@ we're ignoring some
 
 Lets talk about "pure red". Here's a simple example:
 
-![Red](../images/red.svg?sanitize=true)
+![Red](../images/red.svg)
 
 See the box above? It is (255, 0, 0), so it should look red to you, but you are almost certainly
 seeing a slightly different version of it than everyone else is, due to differences in software,
