@@ -30,9 +30,9 @@ red", it's not always clear how red that should be, we need a better way to spec
 the second problem.
 
 So basically, when you tell a computer to display "pure red", you can't know what's actually going
-to be displayed, except that it will generally be recognizable as the color red, it might even be
-pretty close to what you expected, but there is no absolute truth to colors, they can't be trusted.
-Colors are lies.
+to be displayed or perceived, except that it will generally be recognizable as the color red, it
+might even be pretty close to what you expected, but there is no absolute truth to colors, they
+can't be trusted. Colors are lies.
 
 ## So now what
 
@@ -47,8 +47,8 @@ In general as technology improves, and as more people become aware of this probl
 accurately specify and display colors, colors will hopefully become more truthful.
 
 That's what the rest of this is going to be about. It's going to get deep and technical pretty
-quickly, so not everyone needs to understand all of this to become competent for their
-needs, but you should definitely understand what these three things mean and how they apply to you:
+quickly, so not everyone needs to understand all of this to become competent for their needs, but
+you should definitely understand what these three things mean and how they apply to you:
 
 * Gamut
 * Luminance

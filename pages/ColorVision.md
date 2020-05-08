@@ -28,6 +28,6 @@ ourselves, we often think about the cones as approximately SML=BGR.
 ## CIE 1931
 
 In 1931 an organization known as CIE used some measurements taken from experiments conducted in the
-1920s to standardize what we know know as the CIE 1931 color space. By testing the response of
-our eyes to different colors, these measurements allowed people to construct a mathematical model
-for our perception of color.
+1920s to standardize what we know know as the CIE 1931 color space. By testing the response of our
+eyes to different colors, these measurements allowed people to construct a mathematical model for
+our perception of color.

@@ -1,5 +1,3 @@
-# Colors Are Lies
+# [Introduction](pages/Introduction.md)
 
-## [Introduction](pages/Introduction.md)
-
-## [Human Color Vision Basics](pages/ColorVision.md)
+# [Human Color Vision Basics](pages/ColorVision.md)
