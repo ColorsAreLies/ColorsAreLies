@@ -1,3 +1,5 @@
-# [Introduction](pages/Introduction.md)
+# Table of Contents
 
-# [Human Color Vision Basics](pages/ColorVision.md)
+## [Introduction](pages/Introduction.md)
+
+## [Human Color Vision Basics](pages/ColorVision.md)
