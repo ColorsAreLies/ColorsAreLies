@@ -2,19 +2,20 @@
 
 ## Ignorance is bliss
 
-For many years now, most of us who use colors on computers are used to specifying them with values
-like (255, 0, 0) or #FF0000, or even "Red", which we instantly recognize as being "pure red". And
-(255, 255, 255) or #FFFFFF or "White" is "pure white", and (0, 0, 0) or #000000 or "Black" is "pure
-black".
+For many years now, most of us who use colors on computers are used to specifying them with
+combinations of red/green/blue (RGB) like (255, 0, 0) or #FF0000, or even "Red", which we instantly
+recognize as being "pure red". And (255, 255, 255) or #FFFFFF or "White" is "pure white", and (0, 0,
+0) or #000000 or "Black" is "pure black".
 
 This has been great, it's easy enough to understand and use. After a little while, it even becomes
-almost second nature for many people.
+almost second nature for many people. Unfortunately we only get away with this simplicity because
+we're ignoring some
 
 ## The problem
 
 Lets talk about "pure red". Here's a concrete example:
 
-![Red](/images/red.png)
+![Red](/images/red.svg)
 
 See the box above? It is (255, 0, 0), so it should look red to you, but you are almost certainly
 seeing a slightly different version of it than everyone else is, due to differences in software,
