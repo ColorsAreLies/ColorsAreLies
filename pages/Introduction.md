@@ -13,9 +13,9 @@ we're ignoring some
 
 ## The problem
 
-Lets talk about "pure red". Here's a concrete example:
+Lets talk about "pure red". Here's a simple example:
 
-![Red](/images/red.svg)
+![Red](/images/red.svg?sanitize=true)
 
 See the box above? It is (255, 0, 0), so it should look red to you, but you are almost certainly
 seeing a slightly different version of it than everyone else is, due to differences in software,

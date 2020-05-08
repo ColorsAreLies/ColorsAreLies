@@ -19,7 +19,7 @@ and our brains interpret it as the color red.
 Each cone has different sensitivities to different wavelengths, and there is some overlap, so it's
 not as simple as Short=Blue, Medium=Green, and Long=Red. In reality it looks something like this:
 
-![Cones Spectrum](/images/cones-spectrum.svg)  
+![Cones Spectrum](/images/cones-spectrum.svg?sanitize=true)  
 (image courtesy of the Wikipedia Color Vision page)
 
 Believe it or not, even that diagram is oversimplified. Regardless, to make it even easier for
